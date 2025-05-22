@@ -1,4 +1,4 @@
-![Screenshot 2025-05-22 093009](https://github.com/user-attachments/assets/42cb1ba6-2215-494b-bba7-df1ebb5f5dde)EX-21-POINTERS
+## EX-21-POINTERS
 # AIM:
 Write a c program to add two integer numbers using pointers.
 
