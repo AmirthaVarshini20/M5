@@ -204,29 +204,21 @@ int main()
   
 }
 ```
- ## OUTPUT
 
-
+## OUTPUT
 ![image](https://github.com/user-attachments/assets/700792d8-f538-4ae6-8b01-20e10940811f)
 
 ![Screenshot 2025-05-22 092301](https://github.com/user-attachments/assets/d436364a-9084-4bc3-8ed7-61cc8821acda)
 
- 
 ## RESULT
 
 Thus the C program to find the number of times a given word 'the' appears in the given string has been executed successfully.
  
-
- 
-.
-
-
-
-# EX -25 –DISPLAYING ARRAYS USING POINTERS
+## EX -25 –DISPLAYING ARRAYS USING POINTERS
 ## AIM
 
 Write a c program to read and display an array of any 3 integer elements using pointer
-```
+
 ## ALGORITHM
 ```
 Step 1: Start the program.
