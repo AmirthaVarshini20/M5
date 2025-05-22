@@ -98,7 +98,7 @@ Write C Program to find Sum of each row and column of a Matrix
 
 ## ALGORITHM:
 ```
-1.2Start the program and read matrix dimensions x (rows) and y (columns).
+1.Start the program and read matrix dimensions x (rows) and y (columns).
 
 2.Input elements into a 2D array a[x][y].
 
@@ -107,10 +107,10 @@ Write C Program to find Sum of each row and column of a Matrix
 4.Loop through each column to calculate and print the sum of its elements.
 
 4.End the program.
+
 ```
-
-
 ## PROGRAM:
+
 ```
 #include <stdio.h>
 
@@ -146,8 +146,7 @@ int main()
     }
     return 0;
 }
-
-'''
+```
 
 
 ## OUTPUT
